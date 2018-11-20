@@ -4,7 +4,7 @@ author: Chelwin
 email: my-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my little corner on the interwebs. Have fun!
-show_downloads: true
+# show_downloads: true
 google_analytics:
 # social links
 twitter_username: @normallytangent
