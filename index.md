@@ -5,4 +5,4 @@ Hi! I'm glad you stopped by. You can check out my blogposts, some of which are m
 ## [My Projects](http://chelwin.github.io/projects)
 ## [Ask Me Anything](http://chelwin.github.io/contact)
 [raise an issue](https://github.com/Chelwin/Chelwin.github.io/issues)
-<p>normallytangent[{at]}gmail[{dot]}com</p>
+<p>sanchivaishnavi[{at]}gmail[{dot]}com</p>
