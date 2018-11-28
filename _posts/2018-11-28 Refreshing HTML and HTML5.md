@@ -5,4 +5,4 @@ redirects to the footer of the page with the id `#footer`.
 
 - Use the attribute `target = "_blank"` with anchor tag to force opening of the link referenced in the href attribute in a new window-tab
 
-- Create a deaed link by setting the href attribute to `"#"`
+- Create a dead link by setting the href attribute to `"#"`
